@@ -10,3 +10,6 @@ This article discusses a very real and timely issue in software development: **h
 In a world where more teams are adopting AI assistants like Copilot or Claude, the tension between **productivity and correctness** is becoming a central concern. Frankly it’s about the long-term maintainability and safety of the software we build.
 
 ---
+### comment by murun
+
+This article really highlights a crucial tension in modern software development — AI can accelerate coding, but without careful review, it risks creating a false sense of security. The 'illusion of correctness' is a warning all teams should take seriously.
